@@ -381,6 +381,7 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 ## 💻 <a name="development-tools"></a>Development Tools
 
 > Tools and servers that assist with software development workflows. Enables integration with development-related services and APIs.
+- ✂️ [context-trim](https://github.com/kaanefebusiness-ai/context-trim) - Ultra-fast CLI and zero-dependency MCP server to prune repository bloat and reduce codebase token consumption by 70%+ for Claude Code, Cursor, and Codex.
 
 - <img src="https://www.svgrepo.com/show/107853/uranus.svg" height="14"/> [CentralMind/Gateway](https://github.com/centralmind/gateway) - MCP and MCP SSE Server that automatically generate production ready API based on database schema and data. Supports PostgreSQL, Clickhouse, MySQL, Snowflake, BigQuery, Supabase
 - <img src="http://currents.dev/favicon.ico" height="14"/> [Currents](https://github.com/currents-dev/currents-mcp)<sup><sup>⭐</sup></sup> - Enable AI Agents to fix Playwright test failures reported to [Currents](https://currents.dev).
